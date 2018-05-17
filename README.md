@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
-###This project is currently in development. 
+This project is currently in development. 
 
 An application where the user is able to create and store recipes, as well as create a shopping list.
 I'm using Bootstrap for now as my css framework, but will later change once the application is complete. 
